@@ -1,7 +1,11 @@
+<div align="center">
+  <img height="370" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk4amIzbHNmaGp6YWZuODRhYWlhc2ZrNG96am5kYnR3bHo4Z3RjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
+</div>
+
 ###
 
 <div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXk4amIzbHNmaGp6YWZuODRhYWlhc2ZrNG96am5kYnR3bHo4Z3RjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
+  <img src="https://github-profile-trophy.vercel.app?username=CyberAlbSecOP&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -14,13 +18,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=CyberAlbSecOP&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberAlbSecOP&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberAlbSecOP&radius=16&theme=merko&area=true&order=5" height="230" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -53,36 +51,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFhZnl6Zmo2OHpxYzBsZjIxc3o5b3EybHFyd2V2bHhncjM3anBiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif"  />
-</div>
-
-###
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31uhic2qw5uyulnsijwsizgbtjnm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-###
-
-<div align="center">
-  <img height="240" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ1NzV4d285eHVlazE0ZXhjeGxzYjgxdXBsdmdmYng2dXI4cm11NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8WeatsYCC54TC/giphy.gif"  />
+  <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFhZnl6Zmo2OHpxYzBsZjIxc3o5b3EybHFyd2V2bHhncjM3anBiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlwMnVjdHkwbHE1c20wbWhsejQ3djVvZzdtaDV6cWEyYWpoMXBybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="390" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1tbGwxMmVhM3BvNWNhb2h0ZHRqMHpkcDJsemV1dmZseW04dnBwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"  />
+  <img height="530" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1tbGwxMmVhM3BvNWNhb2h0ZHRqMHpkcDJsemV1dmZseW04dnBwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"  />
 </div>
 
 ###
@@ -96,11 +76,3 @@
 </div>
 
 ###
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
