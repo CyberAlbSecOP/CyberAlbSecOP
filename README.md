@@ -1,6 +1,8 @@
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uhic2qw5uyulnsijwsizgbtjnm&unique={true|1|on|yes})
+<div align="center">
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uhic2qw5uyulnsijwsizgbtjnm&unique={true|1|on|yes})
+</div>
 
 ###
 
