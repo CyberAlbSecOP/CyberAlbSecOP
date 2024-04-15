@@ -1,7 +1,5 @@
-###
-
 <div align="center">
-  <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhsMWJ2Nm9tZDJxNXBydXplNTI0Y2ppeTU4c21xaXp0aXNtZnI3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Tnt00vILeGSZCCHgD/giphy.gif"  />
+  <img height="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhsMWJ2Nm9tZDJxNXBydXplNTI0Y2ppeTU4c21xaXp0aXNtZnI3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Tnt00vILeGSZCCHgD/giphy.gif"  />
 </div>
 
 ###
@@ -21,12 +19,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberAlbSecOP&radius=16&theme=monokai&area=true&order=5" height="400" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno2d3FlcHBkbWt2dm1zeDQ3OGs0MGY4MTljcWltbmJvYXcybGJzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zX5I2mET4t9ixxa2ul/giphy.gif"  />
 </div>
 
 ###
