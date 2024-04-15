@@ -67,10 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CyberAlbSecOP/CyberAlbSecOP/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/CyberAlbSecOP/count.svg?"  />
 </div>
