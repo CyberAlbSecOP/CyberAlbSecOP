@@ -1,4 +1,6 @@
-![giphy](https://github.com/CyberAlbSecOP/CyberAlbSecOP/assets/145022163/d551ae97-1c07-4fa2-8dca-510104def335)
+<div align="center">
+  ![giphy](https://github.com/CyberAlbSecOP/CyberAlbSecOP/assets/145022163/d551ae97-1c07-4fa2-8dca-510104def335)
+</div>
 
 ###
 
