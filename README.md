@@ -19,7 +19,7 @@
 
 ###
 
-```md
+md
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/00000000/0000000000-gh-title-red-black.png" alt="CyberAlbSecOP" width="100%">
 </h1>
@@ -39,7 +39,7 @@
 
 <h3 align="center">Who Am I?</h3>
 
-```python
+python
 class CyberAlbSecOP:
     def __init__(self):
         self.name = "CyberAlbSecOP"
@@ -57,7 +57,7 @@ class CyberAlbSecOP:
 
 me = CyberAlbSecOP()
 print(me.about_me())
-```
+
 
 ---
 
