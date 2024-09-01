@@ -16,15 +16,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberAlbSecOP&radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-md
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/0000000000-gh-title-red-black.png" alt="CyberAlbSecOP" width="100%">
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/CyberAlbSecOP?label=Followers&logo=github&style=for-the-badge" alt="Followers">
-  <img src="https://img.shields.io/github/stars/CyberAlbSecOP?label=Stars&logo=github&color=red&style=for-the-badge" alt="Stars">
-</p>
