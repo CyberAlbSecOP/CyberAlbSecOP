@@ -31,36 +31,6 @@ md
 
 ---
 
-<h2 align="center">Welcome to My Cyber Lair</h2>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/00000000/0000000000-animated-red-black-cyber.gif" alt="Cybersec Animation" width="50%">
-</p>
-
-<h3 align="center">Who Am I?</h3>
-
-python
-class CyberAlbSecOP:
-    def __init__(self):
-        self.name = "CyberAlbSecOP"
-        self.interests = ["Cybersecurity", "Prompt Engineering", "AI Model Jailbreaking"]
-        self.languages = ["Python", "Bash", "JavaScript"]
-        self.skills = ["Ethical Hacking", "Penetration Testing", "Reverse Engineering"]
-        self.motto = "Disrupt, Secure, Optimize"
-
-    def about_me(self):
-        return f"Name: {self.name}\n" \
-               f"Specialties: {', '.join(self.skills)}\n" \
-               f"Languages: {', '.join(self.languages)}\n" \
-               f"Interests: {', '.join(self.interests)}\n" \
-               f"Motto: {self.motto}"
-
-me = CyberAlbSecOP()
-print(me.about_me())
-
-
----
-
 <h3 align="center">🔥 What I Do 🔥</h3>
 
 - 🛡 **Cybersecurity:** Breaching the unbreachable, hardening the unbreakable. From ethical hacking to penetration testing, I explore vulnerabilities to strengthen systems.
